@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1000",
+        "name": "Valentin",
+        "email": "Valentins@gmail.com"
+    },
+    {
+        "id": "1000",
+        "name": "Anastasia",
+        "email": "anastassia@gmail.com"
+    },
+    {
+        "id": "1000",
+        "name": "Vlad",
+        "email": "gvarsliany@gmail.com"
+    },
+    {
+        "id": "1000",
+        "name": "CityCenter",
+        "email": "CitysCenter@gmail.com"
+    },
+    {
+        "id": "1000",
+        "name": "IrinaN",
+        "email": "fsidelitti.shop@gmail.com"
+    },
+    {
+        "id": "1000",
+        "name": "Yura",
+        "email": "Yursa@gmail.com"
+    },
+    {
+        "id": "1000",
+        "name": "1c_prog",
+        "email": "1c@gmail.com"
+    },
+    {
+        "id": "1000",
+        "name": "admin",
+        "email": "loemasdmin@fidelitti.com"
+    }
+]
